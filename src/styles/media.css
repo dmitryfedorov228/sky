@@ -1,0 +1,46 @@
+
+@media (max-width: 425px) {
+    .main__image{
+        max-width: 425px;
+    }
+
+
+}@media (max-width: 425px) {
+    .Header__menu{
+        max-width: 425px;
+    }
+}
+
+@media (max-width: 425px) {
+    .Header__menu-logo{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .Header__menu-box {
+        padding-right: 100px;
+    }
+}
+
+@media (max-width: 425px) {
+    .container {
+        max-width: 425px;
+    }
+}
+
+@media (max-width: 425px) {
+    .Location__image {
+        max-width: 425px;
+    }
+}
+
+@media (max-width: 425px) {
+    .Location__btn {
+        max-width: 425px;
+    }
+}
+
+
+
+
